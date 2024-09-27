@@ -1,1 +1,2 @@
 I created files for each test for lesson 5 tpoic 5 assignment then, commited them to my repository ran the tests on cypress and submitted.
+I also recently purchased a new laptop and had to redo all my apps and settings while doing that I lost my files that werent saved on my acct and had to recreate the Playground file under QA Training I did figure out how to clone Playground 2 but then messed something up and lost all teh work on there hopefully this does not confuse you and your team, I do have everything set up now though.
