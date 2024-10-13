@@ -26,5 +26,8 @@ jobs:
       - name: Install Cypress
         run: npm install cypress --save-dev
 
+      - name: Set executable permissions for Cypress
+        run: chmod +x ./node_modules/.bin/cypress
+
       - name: Run Cypress tests
         run: npx cypress run
