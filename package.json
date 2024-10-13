@@ -3,3 +3,9 @@
     "cypress": "^13.14.2"
   }
 }
+
+"scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "cypress:open": "cypress open",
+  "cypress:run": "cypress run"
+}
