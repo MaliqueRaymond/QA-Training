@@ -1,5 +1,0 @@
-steps:
-  - name: ZAP Scan
-    uses: zaproxy/action-full-scan@v0.11.0
-    with:
-      target: 'https://www.zaproxy.org/'
